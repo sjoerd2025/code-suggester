@@ -2,3 +2,5 @@
 *.js text eol=lf
 protos/* linguist-generated
 **/api-extractor.json  linguist-language=JSON-with-Comments
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
